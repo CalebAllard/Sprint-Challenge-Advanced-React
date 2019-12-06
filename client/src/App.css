@@ -26,12 +26,12 @@ body{
   background-color:grey;
   color:white;
 }
-.dark-mode .playerCard{
+.contrast-mode .playerCard{
   background-color:black;
   color:white;
 
 }
-.dark-mode{
+.contrast-mode{
   background-color:white;
   color:black;
 }

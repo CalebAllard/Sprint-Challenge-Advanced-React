@@ -7,9 +7,9 @@ export const useHighContrast = (value) => {
 
     useEffect(() => {
         if (mode){
-            document.querySelector('body').classList.add('dark-mode');
+            document.querySelector('body').classList.add('contrast-mode');
         }else{
-            document.querySelector('body').classList.remove('dark-mode');
+            document.querySelector('body').classList.remove('contrast-mode');
         }
 
 
