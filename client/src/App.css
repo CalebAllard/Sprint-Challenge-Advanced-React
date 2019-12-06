@@ -22,6 +22,19 @@
 .App-link {
   color: #61dafb;
 }
+body{
+  background-color:grey;
+  color:white;
+}
+.contrast-mode .playerCard{
+  background-color:black;
+  color:white;
+
+}
+.contrast-mode{
+  background-color:white;
+  color:black;
+}
 
 @keyframes App-logo-spin {
   from {
